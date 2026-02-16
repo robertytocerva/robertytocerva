@@ -31,8 +31,13 @@ Soy un apasionado de la tecnología, el desarrollo de software y la administraci
 ### 📊 Mis Estadísticas de GitHub
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=robertytocerva&show_icons=true&theme=tokyonight&count_private=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertytocerva&layout=compact&theme=tokyonight&hide_langs_below=1" />
+  <img width="48%" src="https://github-readme-stats-fast.vercel.app/api?username=robertytocerva&show_icons=true&theme=tokyonight&count_private=true" />
+  
+  <img width="48%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=robertytocerva&layout=compact&theme=tokyonight&hide_langs_below=1" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=robertytocerva&theme=tokyonight" />
 </p>
 
 ---
