@@ -9,7 +9,7 @@ Soy un apasionado de la tecnología, el desarrollo de software y la administraci
 ### 🚀 Sobre mí
 
 - 🎓 Actualmente cursando la carrera en el **Instituto Tecnológico Superior de Uruapan**.
-- 🛠️ Trabajando en proyectos de **IoT** y **Desarrollo Backend y movil**.
+- 🛠️ Trabajando en proyectos de **IoT**, **Desarrollo Backend** y **Movil**.
 - 🌱 Aprendiendo constantemente sobre **Spring Boot**, **Android Studio** y **Administración de Redes**.
 - 🏛️ Seguidor de la filosofía de **Epicteto**.
 
